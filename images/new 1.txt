@@ -1,0 +1,162 @@
+<div class="row">
+							<div class="col-md-6 animate-box" data-animate-effect="fadeInBottom">
+								<div class="cool project" style="background-image: url(images/HorrorSnap11.PNG);">
+									<div class="desc">
+										<div class="con">
+											<h3><a href="work.html">Horror Forest [To still be uploaded]</a></h3>
+											<span>Unreal Project Sample; Tech Art Class Project</span>
+											<button type="button" class="btn btn-primary" data-toggle="modal"
+												data-target="#horrorModal">
+												Click here for more information
+											</button>
+											<p class="icon">
+												<span><a href="#"><i class="icon-share3"></i></a></span>
+
+											</p>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="modal fade" id="horrorModal" tabindex="-1" role="dialog"
+								aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+								<div class="modal-dialog modal-dialog-centered" role="document">
+									<div class="modal-content">
+										<div class="modal-header">
+											<h5 class="modal-title" id="exampleModalLongTitle">Horror Forest</h5>
+											<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+												<span aria-hidden="true">&times;</span>
+											</button>
+										</div>
+										<div class="modal-body">
+											<div class="carousel slide" data-ride="carousel" id="Horrorcarousel">
+												<ol class="carousel-indicators">
+												</ol>
+												<div class="carousel-inner fullheight">
+													<div class="item active"><img src="images/HorrorSnap1.PNG"
+															alt="Horror Forest image"></div>
+													<div class="item"><img src="images/HorrorSnap1.PNG"
+															alt="Horror Forest image"></div>
+													<div class="item"><img src="images/HorrorSnap2.PNG"
+															alt="Horror Forest image"></div>
+													<div class="item"><img src="images/HorrorSnap3.PNG"
+															alt="Horror Forest image"></div>
+													<div class="item"><img src="images/HorrorSnap4.PNG"
+															alt="Horror Forest image"></div>
+													<div class="item"><img src="images/HorrorSnap5.PNG"
+															alt="Horror Forest image"></div>
+													<div class="item"><img src="images/HorrorSnap6.PNG"
+															alt="Horror Forest image"></div>
+													<div class="item"><img src="images/HorrorSnap7.PNG"
+															alt="Horror Forest image"></div>
+													<div class="item"><img src="images/HorrorSnap8.PNG"
+															alt="Horror Forest image"></div>
+													<div class="item"><img src="images/HorrorSnap9.PNG"
+															alt="Horror Forest image"></div>
+													<div class="item"><img src="images/HorrorSnap10.PNG"
+															alt="Horror Forest image"></div>
+													<div class="item"><img src="images/HorrorSnap13.PNG"
+															alt="Horror Forest image"></div>
+													<div class="item"><img src="images/HorrorSnap11.PNG"
+															alt="Horror Forest image"></div>
+													<div class="item"><img src="images/HorrorSnap12.PNG"
+															alt="Horror Forest image"></div>
+													<div class="item"><img src="images/HorrorSnap14.PNG"
+															alt="Horror Forest image"></div>
+
+												</div><!-- carousel-inner -->
+												<a class="left carousel-control" href="#Horrorcarousel" role="button"
+													data-slide="prev">
+													<span class="glyphicon glyphicon-chevron-left"></span>
+												</a>
+												<a class="right carousel-control" href="#Horrorcarousel" role="button"
+													data-slide="next">
+													<span class="glyphicon glyphicon-chevron-right"></span>
+												</a>
+											</div>
+											<h3>Horror Forest</h3>
+											<p>I went to the Sunken Garden in Highland Park, Rochester NY late at night
+												and it inspired a lot of horror game vibes to take over my creative
+												juices. So of course for my big Tech Art class project I decided to
+												recreate a scene similar to the garden that night. I followed all of the
+												instructional project milestones that my professor set, but the design,
+												quality of interactions, and idea to remove all lighting and replace it
+												instead with aesthetic-pleasing will o' the wisps to light the users way
+												through this haunting experience</p>
+										</div>
+										<div class="modal-footer">
+
+										</div>
+									</div>
+								</div>
+							</div>
+							
+							<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
+								<div class="copl project" style="background-image: url(images/LightingTech.PNG);">
+									<div class="desc">
+										<div class="con">
+											<h3><a href="work.html">Lighting Exploration in Unreal[To still be
+													uploaded]</a></h3>
+											<span>Unreal Project Sample; Tech Art Class Project</span>
+											<button type="button" class="btn btn-primary" data-toggle="modal"
+												data-target="#lightingModal">
+												Click here for more information
+											</button>
+											<p class="icon">
+												<span><a href="#"><i class="icon-share3"></i></a></span>
+
+											</p>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="modal fade" id="lightingModal" tabindex="-1" role="dialog"
+								aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+								<div class="modal-dialog modal-dialog-centered" role="document">
+									<div class="modal-content">
+										<div class="modal-header">
+											<h5 class="modal-title" id="exampleModalLongTitle">Lighting Exploration</h5>
+											<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+												<span aria-hidden="true">&times;</span>
+											</button>
+										</div>
+										<div class="modal-body">
+											<div class="carousel slide" data-ride="carousel" id="Lightcarousel">
+												<ol class="carousel-indicators">
+												</ol>
+												<div class="carousel-inner fullheight">
+													<div class="item active"><img src="images/ALCapture3.JPG"
+															alt="Atomic Launcher Start Screen"></div>
+													<div class="item"><img src="images/ALCapture1.JPG"
+															alt="Atomic Launcher Tutorial screen"></div>
+													<div class="item"><img src="images/ALCapture2.JPG"
+															alt="Atomic Launcher mid-game screen"></div>
+
+												</div><!-- carousel-inner -->
+												<a class="left carousel-control" href="#Lightcarousel" role="button"
+													data-slide="prev">
+													<span class="glyphicon glyphicon-chevron-left"></span>
+												</a>
+												<a class="right carousel-control" href="#Lightcarousel" role="button"
+													data-slide="next">
+													<span class="glyphicon glyphicon-chevron-right"></span>
+												</a>
+											</div>
+											<h3>Lighting Exploration</h3>
+											<p>The assignment in class was to recreate the lighting of a scene in a
+												movie, so the movie I chose was The Silenced. It was my first time using
+												lighting in Unreal, and despite that and despite how minimal the scene I
+												picked was (no obvious source of lighting, only the glow from a tube), I
+												was able to pretty effectively mimic the scene's appearance.
+												<br> Anyways I'm proud of it and want to show off what I can do on my
+												first attempt </p>
+										</div>
+										<div class="modal-footer">
+
+										</div>
+									</div>
+								</div>
+							</div>
+							
+							
+							
+							
