@@ -70,6 +70,9 @@ body {
   background-color: #fff;
 }
 
+html,body {
+  overflow-x: hidden;
+}
 [tabindex="-1"]:focus:not(:focus-visible) {
   outline: 0 !important;
 }
@@ -10149,4 +10152,9 @@ header.masthead h1 {
 
 .text-white-75 {
   color: rgba(255, 255, 255, 0.75);
+}
+#portfolio .img-fluid
+{
+ max-height: 85vh;
+ max-width: 95vw;
 }
