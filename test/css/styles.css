@@ -10242,3 +10242,8 @@ form .row:first-child .floating-label-form-group {
   .grow:hover { 
   transform: scale(1.1); 
   }
+
+
+  .carousel-inner img {
+    max-width: 50vw;
+  }
