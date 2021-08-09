@@ -10245,5 +10245,6 @@ form .row:first-child .floating-label-form-group {
 
 
   .carousel-inner img {
-    max-width: 50vw;
+    max-width: 40vw;
+
   }
