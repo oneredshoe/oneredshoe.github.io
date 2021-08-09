@@ -481,6 +481,7 @@ mark,
 .img-fluid {
   max-width: 100%;
   height: auto;
+  text-align: center;
 }
 
 .img-thumbnail {
@@ -10156,15 +10157,16 @@ header.masthead h1 {
 .text-white-75 {
   color: rgba(255, 255, 255, 0.75);
 }
-#portfolio .img-fluid
-{
+#portfolio .img-fliud {
  max-height: 85vh;
  max-width: 95vw;
  display: flex;
  justify-content: center;
+ text-align: center;
  
 }
-.trio {
-  max-width: 30vw;
-}
+.image-center {
+text-align: center;
+margin: 0 auto;
 
+}
